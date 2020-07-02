@@ -43,3 +43,21 @@
 [submodule "Windows/Kernel/windows-syscalls"]
 	path = Windows/Kernel/windows-syscalls
 	url = https://github.com/j00ru/windows-syscalls
+[submodule "Instrumentation/Detours"]
+	path = Instrumentation/Detours
+	url = https://github.com/microsoft/Detours
+[submodule "Instrumentation/frida"]
+	path = Instrumentation/frida
+	url = https://github.com/frida/frida
+[submodule "Emulation/qiling"]
+	path = Emulation/qiling
+	url = https://github.com/qilingframework/qiling
+[submodule "Fuzzing/winafl"]
+	path = Fuzzing/winafl
+	url = https://github.com/googleprojectzero/winafl
+[submodule "Fuzzing/AFL"]
+	path = Fuzzing/AFL
+	url = https://github.com/google/AFL
+[submodule "Fuzzing/unicorefuzz"]
+	path = Fuzzing/unicorefuzz
+	url = https://github.com/fgsect/unicorefuzz
