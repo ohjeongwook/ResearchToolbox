@@ -1,0 +1,45 @@
+[submodule "Debugging/VirtualKD"]
+	path = Debugging/VirtualKD
+	url = https://github.com/sysprogs/VirtualKD
+[submodule "Debugging/flare-dbg"]
+	path = Debugging/flare-dbg
+	url = https://github.com/fireeye/flare-dbg
+[submodule "Debugging/pykd"]
+	path = Debugging/pykd
+	url = https://githomelab.ru/pykd/pykd
+[submodule "Disassemble/pyxed"]
+	path = Disassemble/pyxed
+	url = https://github.com/huku-/pyxed
+[submodule "Disassemble/capstone"]
+	path = Disassemble/capstone
+	url = https://github.com/aquynh/capstone
+[submodule "Disassemble/ghidra"]
+	path = Disassemble/ghidra
+	url = https://github.com/NationalSecurityAgency/ghidra/
+[submodule "Disassemble/xed"]
+	path = Disassemble/xed
+	url = https://github.com/intelxed/xed
+[submodule "Emulation/unicorn"]
+	path = Emulation/unicorn
+	url = https://github.com/unicorn-engine/unicorn
+[submodule "Instrumentation/TinyInst"]
+	path = Instrumentation/TinyInst
+	url = https://github.com/ohjeongwook/TinyInst
+[submodule "Instrumentation/dynamorio"]
+	path = Instrumentation/dynamorio
+	url = https://github.com/DynamoRIO/dynamorio
+[submodule "Instrumentation/libipt"]
+	path = Instrumentation/libipt
+	url = https://github.com/intel/libipt
+[submodule "Windows/Kernel/driver-loader"]
+	path = Windows/Kernel/driver-loader
+	url = https://github.com/maldevel/driver-loader
+[submodule "Windows/PE/pefile"]
+	path = Windows/PE/pefile
+	url = https://github.com/erocarrera/pefile
+[submodule "C++/pycparser"]
+	path = C++/pycparser
+	url = https://github.com/eliben/pycparser
+[submodule "Windows/Kernel/windows-syscalls"]
+	path = Windows/Kernel/windows-syscalls
+	url = https://github.com/j00ru/windows-syscalls
