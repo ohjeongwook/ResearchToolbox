@@ -73,3 +73,6 @@
 [submodule "Malware/Obfuscation/obfuscator"]
 	path = Malware/Obfuscation/obfuscator
 	url = https://github.com/obfuscator-llvm/obfuscator
+[submodule "Fuzzing/FuzzBench"]
+	path = Fuzzing/FuzzBench
+	url = https://github.com/google/FuzzBench
