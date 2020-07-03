@@ -61,3 +61,12 @@
 [submodule "Fuzzing/unicorefuzz"]
 	path = Fuzzing/unicorefuzz
 	url = https://github.com/fgsect/unicorefuzz
+[submodule "C++/llvmlite"]
+	path = C++/llvmlite
+	url = https://github.com/numba/llvmlite
+[submodule "C#/dnSpy"]
+	path = "C#/dnSpy"
+	url = https://github.com/0xd4d/dnSpy
+[submodule "C#/ILSpy"]
+	path = "C#/ILSpy"
+	url = https://github.com/icsharpcode/ILSpy
