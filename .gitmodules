@@ -76,3 +76,6 @@
 [submodule "Fuzzing/FuzzBench"]
 	path = Fuzzing/FuzzBench
 	url = https://github.com/google/FuzzBench
+[submodule "ARM/ARMRef"]
+	path = ARM/ARMRef
+	url = https://github.com/evilpenguin/ARMRef
