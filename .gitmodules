@@ -79,3 +79,6 @@
 [submodule "ARM/ARMRef"]
 	path = ARM/ARMRef
 	url = https://github.com/evilpenguin/ARMRef
+[submodule "Disassemble/IDA/ida-cmake"]
+	path = Disassemble/IDA/ida-cmake
+	url = https://github.com/zyantific/ida-cmake
