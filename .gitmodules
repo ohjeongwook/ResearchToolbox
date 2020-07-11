@@ -82,3 +82,6 @@
 [submodule "Disassemble/IDA/ida-cmake"]
 	path = Disassemble/IDA/ida-cmake
 	url = https://github.com/zyantific/ida-cmake
+[submodule "Fuzzing/lighthouse"]
+	path = Fuzzing/lighthouse
+	url = https://github.com/gaasedelen/lighthouse
