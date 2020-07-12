@@ -85,3 +85,6 @@
 [submodule "Fuzzing/lighthouse"]
 	path = Fuzzing/lighthouse
 	url = https://github.com/gaasedelen/lighthouse
+[submodule "Android/slicer"]
+	path = Android/slicer
+	url = https://github.com/mzfr/slicer
