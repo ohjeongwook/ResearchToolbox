@@ -88,3 +88,9 @@
 [submodule "Android/slicer"]
 	path = Android/slicer
 	url = https://github.com/mzfr/slicer
+[submodule "Forensics/rekall"]
+	path = Forensics/rekall
+	url = https://github.com/google/rekall
+[submodule "WindowsEvents/sysmon-modular"]
+	path = WindowsEvents/sysmon-modular
+	url = https://github.com/olafhartong/sysmon-modular
