@@ -94,3 +94,12 @@
 [submodule "WindowsEvents/sysmon-modular"]
 	path = WindowsEvents/sysmon-modular
 	url = https://github.com/olafhartong/sysmon-modular
+[submodule "Office/office-exploit-case-study"]
+	path = Office/office-exploit-case-study
+	url = https://github.com/houjingyi233/office-exploit-case-study
+[submodule "Office/oletools"]
+	path = Office/oletools
+	url = https://github.com/decalage2/oletools
+[submodule "Office/olefile"]
+	path = Office/olefile
+	url = https://github.com/decalage2/olefile
