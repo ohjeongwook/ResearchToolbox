@@ -103,3 +103,6 @@
 [submodule "Office/olefile"]
 	path = Office/olefile
 	url = https://github.com/decalage2/olefile
+[submodule "Malware/capa"]
+	path = Malware/capa
+	url = https://github.com/fireeye/capa
